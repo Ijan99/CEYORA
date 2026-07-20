@@ -11,6 +11,12 @@ https://ijan99.github.io/CEYORA/
 
 A QR code was also generated using the GitHub Pages URL, allowing users to quickly access the website by scanning it with a mobile device.
 
+## QR Code
+
+Scan the QR code below to open the website on your mobile device.
+
+![CEYORA QR Code](QR.jpeg)
+
 ## Features
 
 - Responsive landing page
